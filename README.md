@@ -13,6 +13,7 @@
 - [[leet#58](https://leetcode.com/problems/length-of-last-word)] [58_length_of_last_word](58_length_of_last_word) (`#easy`)
 - [[leet#66](https://leetcode.com/problems/plus-one)] [66_plus_one](66_plus_one) (`#easy`)
 - [[leet#94](https://leetcode.com/problems/binary-tree-inorder-traversal)] [94_binary_tree_inorder_traversal](94_binary_tree_inorder_traversal) (`#easy`)
+- [[leet#98](https://leetcode.com/problems/validate-binary-search-tree)] [98_validate_binary_search_tree](98_validate_binary_search_tree) (`#medium`)
 - [[leet#100](https://leetcode.com/problems/sametree)] [100_same_tree](100_same_tree) (`#easy`)
 - [[leet#101](https://leetcode.com/problems/symmetric-tree)] [101_symmetric_tree](101_symmetric_tree) (`#easy`)
 - [[leet#104](https://leetcode.com/problems/maximum-depth-of-binary-tree)] [104_maximum_depth_of_binary_tree](104_maximum_depth_of_binary_tree) (`#easy`)
