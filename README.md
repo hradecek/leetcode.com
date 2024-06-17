@@ -11,6 +11,7 @@
 - [[leet#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)] [28_find_the_index_of_the_first_occurence_in_a_string](28_find_the_index_of_the_first_occurence_in_a_string) (`#easy`)
 - [[leet#35](https://leetcode.com/problems/search-insert-position)] [35_search_insert_position](35_search_insert_position) (`#easy`)
 - [[leet#58](https://leetcode.com/problems/length-of-last-word)] [58_length_of_last_word](58_length_of_last_word) (`#easy`)
+- [[leet#66](https://leetcode.com/problems/plus-one)] [66_plus_one](66_plus_one) (`#easy`)
 - [[leet#101](https://leetcode.com/problems/symmetric-tree)] [101_symmetric_tree](101_symmetric_tree) (`#easy`)
 - [[leet#3110](https://leetcode.com/problems/score-of-a-string)] [3110_score_of_a_string](3110_score_of_a_string) (`#easy`)
 
