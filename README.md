@@ -23,14 +23,18 @@ In this repository, you'll find my solutions to various [LeetCode](https://leetc
 
 ## Statistics
 
+## Statistics
+
 | Language | Count |
 |----------|-------|
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java logo" width="20"> java | 12 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python logo" width="20"> python | 3 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c logo" width="20"> c | 3 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript logo" width="20"> typescript | 2 |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python logo" width="20"> python | 3 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" alt="haskell logo" width="20"> haskell | 1 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go logo" width="20"> go | 1 |
+
+Total number of solved problems: **19**
 
 ## Problem List
 
@@ -38,6 +42,7 @@ In this repository, you'll find my solutions to various [LeetCode](https://leetc
 |-----|---------------------------------------------|-------------------------------------|------------|-----------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [01_two_sums](01_two_sums) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](01_two_sums/java/Solution.java) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Logo" width="20">](01_two_sums/python/solution.py) |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [02_add_two_numbers](02_add_two_numbers) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](02_add_two_numbers/java/Solution.java) |
+| 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | [06_zigzag_conversion](06_zigzag_conversion) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](06_zigzag_conversion/java/Solution.java) |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [09_palindrome_number](09_palindrome_number) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](09_palindrome_number/java/Solution.java) |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [13_roman_to_integer](13_roman_to_integer) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C Logo" width="20">](13_roman_to_integer/c/solution.c) |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [21_merge_two_sorted_lists](21_merge_two_sorted_lists) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C Logo" width="20">](21_merge_two_sorted_lists/c/solution.c) |
