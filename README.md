@@ -23,8 +23,6 @@ In this repository, you'll find my solutions to various [LeetCode](https://leetc
 
 ## Statistics
 
-## Statistics
-
 | Language | Count |
 |----------|-------|
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java logo" width="20"> java | 12 |
