@@ -14,11 +14,23 @@ Welcome to my collection of **LeetCode** challenges! This repository contains so
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Problem List](#problem-list)
+2. [Introduction](#statistics)
+3. [Problem List](#problem-list)
 
 ## Introduction
 
 In this repository, you'll find my solutions to various [LeetCode](https://leetcode.com) problems. Each solution might be provided in multiple programming language. Feel free to explore!
+
+## Statistics
+
+| Language | Count |
+|----------|-------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java logo" width="20"> java | 12 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c logo" width="20"> c | 3 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript logo" width="20"> typescript | 2 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python logo" width="20"> python | 3 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" alt="haskell logo" width="20"> haskell | 1 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go logo" width="20"> go | 1 |
 
 ## Problem List
 
