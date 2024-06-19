@@ -18,5 +18,6 @@
 - [[leet#100](https://leetcode.com/problems/sametree)] [100_same_tree](100_same_tree) (`#easy`)
 - [[leet#101](https://leetcode.com/problems/symmetric-tree)] [101_symmetric_tree](101_symmetric_tree) (`#easy`)
 - [[leet#104](https://leetcode.com/problems/maximum-depth-of-binary-tree)] [104_maximum_depth_of_binary_tree](104_maximum_depth_of_binary_tree) (`#easy`)
+- [[leet#112](https://leetcode.com/problems/path-sum)] [112_path_sum](112_path_sum) (`#easy`)
 - [[leet#3110](https://leetcode.com/problems/score-of-a-string)] [3110_score_of_a_string](3110_score_of_a_string) (`#easy`)
 
