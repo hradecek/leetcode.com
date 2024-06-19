@@ -1,23 +1,44 @@
-# [Leet code challenges](leetcode.com)
+# LeetCode Challenges 📚🚀
+<div align="center">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black" alt="LeetCode">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python">  
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white" alt="Haskell">
+</div>
 
-## Problem list
+Welcome to my collection of **LeetCode** challenges! This repository contains solutions to various problems in various languages from [LeetCode](https://leetcode.com/), organized by problem number and difficulty level.
+## Table of Contents
 
-- [[leet#1](https://leetcode.com/problems/two-sum)] [01_two_sums](01_two_sums) (`#easy`)
-- [[leet#2](https://leetcode.com/problems/add-two-numbers)] [02_add_two_numbers](02_add_two_numbers) (`#medium`)
-- [[leet#9](https://leetcode.com/problems/palindrome-number)] [09_palindrome_number](09_palindrome_number) (`#easy`)
-- [[leet#13](https://leetcode.com/problems/roman-to-integer)] [13_roman_to_integer](13_roman_to_integer) (`#easy`)
-- [[leet#21](https://leetcode.com/problems/merge-two-sorted-lists)] [21_merge_two_sorted_lists](21_merge_two_sorted_lists) (`#easy`)
-- [[leet#27](https://leetcode.com/problems/remove-element)] [27_remove_element](27_remove_element) (`#easy`)
-- [[leet#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)] [28_find_the_index_of_the_first_occurence_in_a_string](28_find_the_index_of_the_first_occurence_in_a_string) (`#easy`)
-- [[leet#35](https://leetcode.com/problems/search-insert-position)] [35_search_insert_position](35_search_insert_position) (`#easy`)
-- [[leet#58](https://leetcode.com/problems/length-of-last-word)] [58_length_of_last_word](58_length_of_last_word) (`#easy`)
-- [[leet#66](https://leetcode.com/problems/plus-one)] [66_plus_one](66_plus_one) (`#easy`)
-- [[leet#67](https://leetcode.com/problems/add-binary)] [67_add_binary](67_add_binary) (`#easy`)
-- [[leet#94](https://leetcode.com/problems/binary-tree-inorder-traversal)] [94_binary_tree_inorder_traversal](94_binary_tree_inorder_traversal) (`#easy`)
-- [[leet#98](https://leetcode.com/problems/validate-binary-search-tree)] [98_validate_binary_search_tree](98_validate_binary_search_tree) (`#medium`)
-- [[leet#100](https://leetcode.com/problems/sametree)] [100_same_tree](100_same_tree) (`#easy`)
-- [[leet#101](https://leetcode.com/problems/symmetric-tree)] [101_symmetric_tree](101_symmetric_tree) (`#easy`)
-- [[leet#104](https://leetcode.com/problems/maximum-depth-of-binary-tree)] [104_maximum_depth_of_binary_tree](104_maximum_depth_of_binary_tree) (`#easy`)
-- [[leet#112](https://leetcode.com/problems/path-sum)] [112_path_sum](112_path_sum) (`#easy`)
-- [[leet#3110](https://leetcode.com/problems/score-of-a-string)] [3110_score_of_a_string](3110_score_of_a_string) (`#easy`)
+1. [Introduction](#introduction)
+2. [Problem List](#problem-list)
 
+## Introduction
+
+In this repository, you'll find my solutions to various [LeetCode](https://leetcode.com) problems. Each solution might be provided in multiple programming language. Feel free to explore!
+
+## Problem List
+
+| ID  | Problem                                     | Solution                            | Difficulty | Languages |
+|-----|---------------------------------------------|-------------------------------------|------------|-----------|
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [01_two_sums](01_two_sums) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](01_two_sums/java/Solution.java) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Logo" width="20">](01_two_sums/python/solution.py) |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [02_add_two_numbers](02_add_two_numbers) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](02_add_two_numbers/java/Solution.java) |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [09_palindrome_number](09_palindrome_number) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](09_palindrome_number/java/Solution.java) |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [13_roman_to_integer](13_roman_to_integer) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C Logo" width="20">](13_roman_to_integer/c/solution.c) |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [21_merge_two_sorted_lists](21_merge_two_sorted_lists) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C Logo" width="20">](21_merge_two_sorted_lists/c/solution.c) |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element) | [27_remove_element](27_remove_element) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](27_remove_element/java/Solution.java) |
+| 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [28_find_the_index_of_the_first_occurence_in_a_string](28_find_the_index_of_the_first_occurence_in_a_string) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Typescript Logo" width="20">](28_find_the_index_of_the_first_occurence_in_a_string/typescript/solution.ts) |
+| 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [35_search_insert_position](35_search_insert_position) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](35_search_insert_position/java/Solution.java) |
+| 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [58_length_of_last_word](58_length_of_last_word) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Logo" width="20">](58_length_of_last_word/python/solution.py) |
+| 66  | [Plus One](https://leetcode.com/problems/plus-one) | [66_plus_one](66_plus_one) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](66_plus_one/java/Solution.java) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Logo" width="20">](66_plus_one/python/solution.py) |
+| 67  | [Add Binary](https://leetcode.com/problems/add-binary) | [67_add_binary](67_add_binary) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |  [<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Typescript Logo" width="20">](67_add_binary/typescript/solution.ts) |
+| 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [94_binary_tree_inorder_traversal](94_binary_tree_inorder_traversal) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](94_binary_tree_inorder_traversal/java/Solution.java) |
+| 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [98_validate_binary_search_tree](98_validate_binary_search_tree) | ![Medium](https://img.shields.io/badge/-Medium-orange) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](98_validate_binary_search_tree/java/Solution.java) |
+| 100 | [Same Tree](https://leetcode.com/problems/sametree) | [100_same_tree](100_same_tree) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C Logo" width="20">](100_same_tree/c/solution.c) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [101_symmetric_tree](101_symmetric_tree) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](101_symmetric_tree/java/Solution.java) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [104_maximum_depth_of_binary_tree](104_maximum_depth_of_binary_tree) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](104_maximum_depth_of_binary_tree/java/Solution.java) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [112_path_sum](112_path_sum) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go Logo" width="20">](112_path_sum/go/solution.go) |
+| 3110| [Score of a String](https://leetcode.com/problems/score-of-a-string) | [3110_score_of_a_string](3110_score_of_a_string) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java Logo" width="20">](3110_score_of_a_string/java/Solution.java) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" alt="Haskell Logo" width="20">](3110_score_of_a_string/haskell/solution.hs) |
