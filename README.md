@@ -27,12 +27,12 @@ In this repository, you'll find my solutions to various [LeetCode](https://leetc
 |----------|-------|
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java logo" width="20"> java | 12 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go logo" width="20"> go | 6 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript logo" width="20"> typescript | 3 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c logo" width="20"> c | 3 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python logo" width="20"> python | 3 |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript logo" width="20"> typescript | 2 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" alt="haskell logo" width="20"> haskell | 1 |
 
-Total number of solved problems: **24**
+Total number of solved problems: **25**
 
 ## Problem List
 
