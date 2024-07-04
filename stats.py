@@ -3,7 +3,7 @@
 import os
 from collections import defaultdict
 
-LANGUAGES = ["java", "python", "typescript", "javascript", "c", "go", "haskell"]
+LANGUAGES = ["java", "python", "typescript", "javascript", "c", "go", "haskell", "kotlin"]
 
 def language_icon(language):
     return f'<img src="https://raw.githubusercontent.com/github/explore/main/topics/{language}/{language}.png" alt="{language} logo" width="20">'
