@@ -31,8 +31,9 @@ In this repository, you'll find my solutions to various [LeetCode](https://leetc
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c logo" width="20"> c | 3 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python logo" width="20"> python | 3 |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" alt="haskell logo" width="20"> haskell | 1 |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="kotlin logo" width="20"> kotlin | 1 |
 
-Total number of solved problems: **30**
+Total number of solved problems: **31**
 
 ## Problem List
 
